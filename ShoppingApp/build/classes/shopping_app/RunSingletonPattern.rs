@@ -1,0 +1,5 @@
+shopping_app.HistoryList
+shopping_app.SingletonGui
+shopping_app.Singleton
+shopping_app.SingletonGui$WindowCloseManager
+shopping_app.RunSingletonPattern
